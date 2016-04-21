@@ -15,16 +15,18 @@ J, X                               8
 Q, Z                               10
 
 
-Exemple:
+EXEMPLE:
 
 CHOU aura le score de 9:
 3 pour C, 4 pour H, 1 pour o et 1 pour U
 
 /!\ Le mot peut être saisi en majuscules ou minuscules, cela n' a pas d' incidences sur son score
-S
+
 
 Implementez donc la function score dans lib/scrabble.js en respectant les indications ci-dessus.
 Une fois que c' est fait, créez une pull request depuis votre interface github.
+
+/!\ Vous n' avez pas besoin de modifier les tests unitaires existants.
 
 Si votre implémentation est correcte, les tests unitaires passeront et votre pull request sera acceptée.
 Si votre pull request est rejetée, vous aurez le détail des tests qui ne seront pas passés. Modifiez votre code, et refaites une pull request, ceci jusqu' à ce que votre pull request soit acceptée!
