@@ -4,7 +4,7 @@
  */
 
 
-var scrabble = require('./scrabble");
+var scrabble = require(""../lib/scrabble");
 
     describe('Scrabble kata', function() {
       it('scores an empty word as zero', function() {
